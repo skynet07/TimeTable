@@ -12,3 +12,7 @@ Members' list
 1. Гожий Віктор
 2. Смірнов Ігор
 3. Ладіжин Віталій
+
+# UML-diagram #
+
+![alt tag](http://cs607131.vk.me/v607131273/6c4b/YPMCHAI2VNg.jpg)
