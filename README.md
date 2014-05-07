@@ -15,4 +15,4 @@ Members' list
 
 # UML-diagram #
 
-![alt tag](http://cs607131.vk.me/v607131273/6c4b/YPMCHAI2VNg.jpg)
+![alt tag](http://vk.com/doc224951753_295789407)
