@@ -12,7 +12,12 @@ public class Group extends Student, Student, Student, Student {
     public Vector  myLesson;
     public Vector  myLesson;
     public Vector  myLesson;
-
+    /**
+   * 
+   * @element-type Lesson
+   */
+  public Vector  myLesson;
+  
   public void Group(string name, integer numberOfStudent, integer year) {
   }
 

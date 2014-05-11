@@ -8,6 +8,8 @@ public class Lecturer {
 
     public Vector  myLesson;
     public Vector  myLesson;
+    public Vector  myLesson;
+    public Lesson myLesson;
 
   public void Lecturer(string name, string degree) {
   }

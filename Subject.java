@@ -5,6 +5,7 @@ public class Subject {
   private string name;
 
     public Vector  myLesson;
+    public Lesson myLesson;
 
   public string getName( void) {
   return null;

@@ -14,6 +14,11 @@ public class Lesson {
     public Vector  myGroup;
     public Vector  mySubject;
     public Vector  myLecturer;
+    public Vector  myGroup;
+    public Vector  myLecturer;
+    public Vector  myLecturer;
+    public Vector  mySubject;
+    public Vector  myGroup;
 
   public string getAuditory( void) {
   return null;
