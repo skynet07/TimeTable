@@ -1,6 +1,6 @@
 import java.util.Vector;
 
-public class Group extends Student, Student, Student, Student {
+public class Group{
 
   private string name;
 
